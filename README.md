@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KenpactDesigns
+- 👋 Hi, I’m Abdul-hafeez
 - 👀 I’m interested in collaboration
-- 🌱 I’m currently learning User Experience
-- 💞️ I’m looking to collaborate on UI/UX
+- 🌱 I’m currently learning Cybersecurity and i will be working with linux, python nand Sql
+- 💞️ I’m looking to collaborate based on the cyber security space
 - 📫 How to reach me (hafeezkah@gmail.com)
 
 <!---
-KenpactDesigns/KenpactDesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Abdul-hafeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
